@@ -14,5 +14,6 @@
 3. if it's correct, you will get token. so copy the token at the response and put on bearer token to access the API CRUD
 4. Enjoy.
 
-### Middleware Workflow 
+### Example POSTMAN
+![Screenshot (1202)](https://user-images.githubusercontent.com/67195019/168120538-ed8a3938-6950-4714-8141-78f9f7cd16d9.png)
 
